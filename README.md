@@ -1,2 +1,2 @@
 # R-Maps
-Repo of maps I made using R
+Repo of maps with ggplot
